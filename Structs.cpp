@@ -12,5 +12,5 @@ int main (void){
 	variavel.dado = 10;
 	variavel.valor = 22.22;
 	
-	printf("%d %f",variavel.dado, variavel.valor);
+	printf("%d %f",variavel.dado, variavel.valor);   
 }
